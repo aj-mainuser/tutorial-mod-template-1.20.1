@@ -18,8 +18,7 @@ public class ModItems {
 
     // addes ruby to ingredients item group
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
-        entries.add(RUBY);
-        entries.add(RAW_RUBY);
+
     }
 
     private static Item registerItem(String name, Item item) {
