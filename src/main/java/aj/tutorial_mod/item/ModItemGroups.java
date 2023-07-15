@@ -24,6 +24,14 @@ public class ModItemGroups {
                         entries.add(ModBlocks.RUBY_BLOCK);
                         entries.add(ModBlocks.RAW_RUBY_BLOCK);
 
+                        entries.add(ModItems.OPAL);
+                        entries.add(ModItems.RAW_OPAL);
+
+                        entries.add(ModBlocks.OPAL_BLOCK);
+                        entries.add(ModBlocks.RAW_OPAL_BLOCK);
+
+
+
             }).build());
 
 

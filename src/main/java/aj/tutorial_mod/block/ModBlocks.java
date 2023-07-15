@@ -24,6 +24,12 @@ public class ModBlocks {
     public static final Block RAW_RUBY_BLOCK = registerBlock("raw_ruby_block",
             new Block(FabricBlockSettings.copyOf(Blocks.RAW_IRON_BLOCK).sounds(BlockSoundGroup.AMETHYST_CLUSTER)));
 
+    public static final Block OPAL_BLOCK = registerBlock("opal_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).sounds(BlockSoundGroup.CALCITE)));
+
+    public static final Block RAW_OPAL_BLOCK = registerBlock("raw_opal_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).sounds(BlockSoundGroup.CALCITE)));
+
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);

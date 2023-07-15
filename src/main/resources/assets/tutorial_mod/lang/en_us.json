@@ -5,6 +5,12 @@
   "block.tutorial_mod.ruby_block": "Block of Ruby",
   "block.tutorial_mod.raw_ruby_block": "Block of Raw Ruby",
 
-  "itemgroup.ruby": "AJ's Rubies"
+  "item.tutorial_mod.opal": "Opal",
+  "item.tutorial_mod.raw_opal": "Raw Opal",
+
+  "block.tutorial_mod.opal_block": "Block of Opal",
+  "block.tutorial_mod.raw_opal_block": "Block of Raw Opal",
+
+  "itemgroup.ruby": "AJ's Ores"
 
 }

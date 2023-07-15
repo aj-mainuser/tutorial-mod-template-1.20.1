@@ -16,6 +16,9 @@ public class ModItems {
     public static final Item RUBY = registerItem("ruby", new Item(new FabricItemSettings()));
     public static final Item RAW_RUBY = registerItem("raw_ruby", new Item(new FabricItemSettings()));
 
+    public static final Item OPAL = registerItem("opal", new Item(new FabricItemSettings()));
+    public static final Item RAW_OPAL = registerItem("raw_opal", new Item(new FabricItemSettings()));
+
     // addes ruby to ingredients item group
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
 
