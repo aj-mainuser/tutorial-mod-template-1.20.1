@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorial_mod:raw_opal"
+    }
+  },
+  "result": {
+    "item": "tutorial_mod:raw_opal_block"
+  }
+}

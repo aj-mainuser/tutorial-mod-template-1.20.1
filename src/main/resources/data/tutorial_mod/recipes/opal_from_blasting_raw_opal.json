@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.8,
+  "group": "opal",
+  "ingredient": {
+    "item": "tutorial_mod:raw_opal"
+  },
+  "result": "tutorial_mod:opal"
+}

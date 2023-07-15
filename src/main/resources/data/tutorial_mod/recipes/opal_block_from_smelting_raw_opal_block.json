@@ -3,9 +3,9 @@
   "category": "misc",
   "cookingtime": 400,
   "experience": 0.9,
-  "group": "ruby",
+  "group": "opal",
   "ingredient": {
-    "item": "tutorial_mod:raw_ruby_block"
+    "item": "tutorial_mod:raw_opal_block"
   },
-  "result": "tutorial_mod:ruby_block"
+  "result": "tutorial_mod:opal_block"
 }
