@@ -11,6 +11,9 @@
   "block.tutorial_mod.opal_block": "Block of Opal",
   "block.tutorial_mod.raw_opal_block": "Block of Raw Opal",
 
+  "item.tutorial_mod.marble": "Marble",
+  "item.tutorial_mod.raw_marble": "Raw Marble",
+
   "itemgroup.ruby": "AJ's Ores"
 
 }

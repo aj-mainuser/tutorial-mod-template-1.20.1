@@ -30,6 +30,9 @@ public class ModItemGroups {
                         entries.add(ModBlocks.OPAL_BLOCK);
                         entries.add(ModBlocks.RAW_OPAL_BLOCK);
 
+                        entries.add(ModItems.MARBLE);
+                        entries.add(ModItems.RAW_MARBLE);
+
 
 
             }).build());

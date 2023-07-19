@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 0.8,
+  "group": "marble",
+  "ingredient": {
+    "item": "tutorial_mod:raw_marble"
+  },
+  "result": "tutorial_mod:marble"
+}
