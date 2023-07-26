@@ -14,6 +14,9 @@
   "item.tutorial_mod.marble": "Marble",
   "item.tutorial_mod.raw_marble": "Raw Marble",
 
+  "item.tutorial_mod.ruby_ore": "Ruby Ore",
+  "item.tutorial_mod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
   "itemgroup.ruby": "AJ's Ores"
 
 }
